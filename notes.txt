@@ -1,0 +1,14 @@
+File is a container in a computer system that enables you to store information.
+ 
+File types
+.txt
+.doc
+.pdf
+.mp3
+.mp4
+.zip #The softwares for these are extract/Winrar
+.png
+.jpg
+.jpeg
+.wav #producing software
+.html
